@@ -4,6 +4,7 @@
 
 # module
 from .ini import *
+from .json import *
 
 # definition
 __all__ = [

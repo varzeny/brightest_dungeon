@@ -4,5 +4,5 @@
 
 # definition
 
-def read_file_from_ini():
+def read_ini_from_file():
     return
